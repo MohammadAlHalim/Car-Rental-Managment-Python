@@ -304,7 +304,7 @@ while selection_nb!="exit":
                 From_Email = "wanderwheelsco@outlook.com"
                 To_Email = input("Please enter your email: ")
                 # Avoid using getpass for password input
-                password ="kasvmomhjpbxdpzi"
+                password =PASSWORD
                 subject = "Thank you for your rent"
                 message_body = f'''*Car NB: {rent_a_car}
 *Car name: {cars_specs[rent_a_car-1][0]}
