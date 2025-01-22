@@ -1,0 +1,50 @@
+Toyota Camry 2014|181|5|8.1
+Honda Accord 2020|192|5|7.8
+Ford Mustang 2022|350|4|15.1
+Chevrolet Corvette 1999|345|2|18.5
+Tesla Model S 2021|1020|5|0.0 
+BMW 3 Series 2024|255|5|7.2
+Mercedes-Benz S-580 2022|496|5|11.6
+Audi A4 2023|201|5|7.4
+Nissan Altima 2017|179|5|8.4
+Volkswagen Golf 2020|147|5|7.5
+Jeep Wrangler 2016|270|5|15.5
+Ford Explorer 2022|300|7|15.5
+Chevrolet Camaro RS 2021|275|4|16.5
+Toyota Land Cruiser 2022|383|8|15.0
+Lamborghini Aventador 2022|759|2|17.2
+Mazda CX-5 2018|187|5|8.7
+Lexus RX 2020|295|5|9.2
+Ferrari 812 2016|789|2|15.8
+Kia Picanto 2023|83|5|5.5
+Porsche 911 2022|473|2|11.3
+Subaru Outback 2021|180|5|7.0
+Hyundai Sonata 2019|245|5|9.0
+Jaguar F-Type 2023|350|2|13.0
+Dodge Charger 2022|292|4|11.8
+Volvo XC90 2021|316|5|8.5
+GMC Sierra 1500 2022|355|5|11.8
+Chrysler 300 2020|292|2|9.8
+Acura NSX 2022|573|1|11.0
+Infiniti Q50 2018|300|4|10.2
+Mini Cooper 2023|228|6|6.7
+Subaru Impreza 2022|152|5|7.6
+Buick Enclave 2021|310|5|10.6
+Range Rover vogue 2023|400|1|12.4
+Tesla Model 3 2022|353|5|0.0
+Cadillac Escalade 2022|420|5|12.4
+Nissan Rogue 2019|170|4|8.7
+Volkswagen Passat 2020|174|5|9.4
+Porsche Cayenne 2023|450|1|11.8
+Ford F-150 2022|400|6|12.4
+Audi Q7 2021|248|5|10.2
+Toyota Prius 2022|121|4|4.5
+Chevrolet Equinox 2020|252|5|9.3
+Mercedes-AMG GT 2022|523|1|15.7
+Kia Soul 2023|201|5|7.6
+BMW X5 2021|335|5|9.8
+Honda CR-V 2022|190|4|7.4
+Lexus ES 2023|302|5|8.1
+Alfa Romeo Giulia 2022|280|1|8.4
+Ford Bronco 2023|330|5|11.8
+Range Rover evoque 2021|350|5|9.4
